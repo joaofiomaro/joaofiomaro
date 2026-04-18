@@ -1,4 +1,5 @@
-# Olá! 👋 Sou Desenvolvedor e Estudante de Engenharia de Computação
+# Olá! 👋 
+Sou Desenvolvedor e Estudante de Engenharia de Computação
 
 Bem-vindo ao meu GitHub! Atualmente no penúltimo período de **Engenharia de Computação na UNIFEV** (Votuporanga - SP), sou movido por criar soluções versáteis e eficazes. 
 
