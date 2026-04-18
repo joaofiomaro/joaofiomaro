@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! 👋 Sou Desenvolvedor e Estudante de Engenharia de Computação
 
-<!--
-**joaofiomaro/joaofiomaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Atualmente no penúltimo período de **Engenharia de Computação na UNIFEV** (Votuporanga - SP), sou movido por criar soluções versáteis e eficazes. 
 
-Here are some ideas to get you started:
+Atuo como freelancer desenvolvendo projetos reais e tenho um grande foco no ecossistema **Mobile e Web**, mas também gosto de me aventurar e construir **aplicativos Desktop**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+* 🎓 **Estudante:** Engenharia de Computação (Penúltimo período - UNIFEV).
+* 💼 **Atuação:** Desenvolvedor Freelancer.
+* 🎯 **Foco:** Criar experiências fluidas e responsivas para web e dispositivos móveis.
+
+## 🛠️ Tecnologias e Ferramentas
+Aqui estão as principais linguagens e tecnologias que utilizo no meu dia a dia:
+
+* **Mobile:** Flutter, Dart
+* **Web:** TypeScript, Tailwind CSS
+* **Geral & Scripts:** Python
+
+## 📫 Como me encontrar
+Você pode entrar em contato comigo diretamente por e-mail ou explorar meus projetos aqui mesmo!
+
+* **E-mail:** fiomaro.joao@gmail.com
+
+
+---
+*Fique à vontade para explorar meus repositórios abaixo!* ⚡
