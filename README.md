@@ -1,12 +1,12 @@
 # Olá! 👋 
 Sou Desenvolvedor e Estudante de Engenharia de Computação
 
-Bem-vindo ao meu GitHub! Atualmente no penúltimo período de **Engenharia de Computação na UNIFEV** (Votuporanga - SP), sou movido por criar soluções versáteis e eficazes. 
+Bem-vindo ao meu GitHub! Estou cursando o bacharel em **Engenharia de Computação na UNIFEV** (Votuporanga - SP) - conclusão em 12/2026, movido por criar soluções versáteis e eficazes. 
 
 Atuo como freelancer desenvolvendo projetos reais e tenho um grande foco no ecossistema **Mobile e Web**, mas também gosto de me aventurar e construir **aplicativos Desktop**.
 
 ## 🚀 Sobre mim
-* 🎓 **Estudante:** Engenharia de Computação (Penúltimo período - UNIFEV).
+* 🎓 **Estudante:** Engenharia de Computação (conclusão em 12/2026 - UNIFEV).
 * 💼 **Atuação:** Desenvolvedor Freelancer.
 * 🎯 **Foco:** Criar experiências fluidas e responsivas para web e dispositivos móveis.
 
